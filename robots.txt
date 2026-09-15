@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://outdoorhaulers.site/sitemap.xml
+
+# Awin banners
+Disallow: /cdn-cgi/
