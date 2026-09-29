@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Main - outdoorhaulers.site - OUTFITR US Awin 117613 / 3067297 -->
+  
   <url>
     <loc>https://outdoorhaulers.site/</loc>
     <lastmod>2026-05-13</lastmod>
@@ -49,7 +49,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- 10 SEO Blogs -->
+  
   <url><loc>https://outdoorhaulers.site/#blog1</loc><lastmod>2026-05-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://outdoorhaulers.site/#blog2</loc><lastmod>2026-05-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://outdoorhaulers.site/#blog3</loc><lastmod>2026-05-13</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -60,4 +60,4 @@
   <url><loc>https://outdoorhaulers.site/#blog8</loc><lastmod>2026-05-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://outdoorhaulers.site/#blog9</loc><lastmod>2026-05-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://outdoorhaulers.site/#blog10</loc><lastmod>2026-05-13</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-</urlset>
+<url><loc>https://outdoorhaulers.site/blog/</loc><lastmod>2026-09-29</lastmod></url><url><loc>https://outdoorhaulers.site/blog/best-hitch-rack-for-electric-bikes-and-gear.html</loc><lastmod>2026-09-29</lastmod></url></urlset>
