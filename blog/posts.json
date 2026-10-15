@@ -26,5 +26,19 @@
     "description": "Find the right foldable e-bike hitch rack with ramp for towing. Compare folding designs, ramp loading, weight limits and locks before you buy.",
     "file": "foldable-e-bike-hitch-rack-with-ramp-for-towing.html",
     "date": "2026-10-12"
+  },
+  {
+    "keyword": "best hitch mount rack for e-bikes and kayaks",
+    "title": "Best Hitch Mount Rack for E-Bikes and Kayaks Guide",
+    "description": "Find the best hitch mount rack for e-bikes and kayaks with our comparison of foldable, tilting, and ramp-equipped carriers for cars, SUVs, and trucks.",
+    "file": "best-hitch-mount-rack-for-e-bikes-and-kayaks.html",
+    "date": "2026-10-15",
+    "archetype": "best_products",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 10.0
   }
 ]
