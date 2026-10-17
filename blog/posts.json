@@ -54,5 +54,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.79
+  },
+  {
+    "keyword": "hitch rack for e-bikes with quick release ramp",
+    "title": "Hitch Rack for E-Bikes With Quick Release Ramp Guide",
+    "description": "Compare hitch rack for e-bikes with quick release ramp options, learn key terms, avoid common mistakes, and choose the right model for your e-bike setup.",
+    "file": "hitch-rack-for-e-bikes-with-quick-release-ramp.html",
+    "date": "2026-10-17",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.6,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 10.0
   }
 ]
