@@ -68,5 +68,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 10.0
+  },
+  {
+    "keyword": "Bike, kayak and cargo carriers complete guide: hitch racks, roof racks and boxes",
+    "title": "Bike, Kayak and Cargo Carriers Complete Guide",
+    "description": "Bike, kayak and cargo carriers complete guide: hitch racks, roof racks and boxes compared to help you pick the right hauler for your vehicle and gear.",
+    "file": "bike-kayak-and-cargo-carriers-complete-guide-hitch-racks-roof-racks-and-boxes.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.64,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.96
   }
 ]
