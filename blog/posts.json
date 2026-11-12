@@ -110,5 +110,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.56
+  },
+  {
+    "keyword": "best e-bike hitch rack for 2 bikes",
+    "title": "Best E-Bike Hitch Rack for 2 Bikes: Top Picks 2-Bike Models",
+    "description": "Find the best e-bike hitch rack for 2 bikes. Compare capacity, fit, and security features to haul your e-bikes safely with confidence.",
+    "file": "best-e-bike-hitch-rack-for-2-bikes.html",
+    "date": "2026-11-12",
+    "archetype": "best_products",
+    "archetype_confidence": 0.97,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.41
   }
 ]
