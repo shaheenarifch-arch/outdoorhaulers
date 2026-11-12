@@ -124,5 +124,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.41
+  },
+  {
+    "keyword": "best kayak roof rack for cars",
+    "title": "Best Kayak Roof Rack for Cars: Top Picks Guide",
+    "description": "Compare the best kayak roof rack for cars, from soft J-bar straps to dedicated crossbars, with buying tips to match your vehicle and kayak type.",
+    "file": "best-kayak-roof-rack-for-cars.html",
+    "date": "2026-11-12",
+    "archetype": "best_products",
+    "archetype_confidence": 0.85,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.97
   }
 ]
